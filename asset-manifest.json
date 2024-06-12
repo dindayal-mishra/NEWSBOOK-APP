@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/NEWSBOOK-APP/static/css/main.f855e6bc.css",
+    "main.js": "/NEWSBOOK-APP/static/js/main.ca9589e6.js",
+    "static/js/787.a85e0f77.chunk.js": "/NEWSBOOK-APP/static/js/787.a85e0f77.chunk.js",
+    "static/media/loading.gif.gif": "/NEWSBOOK-APP/static/media/loading.gif.d3fbaf2b81fd92c49692.gif",
+    "index.html": "/NEWSBOOK-APP/index.html",
+    "main.f855e6bc.css.map": "/NEWSBOOK-APP/static/css/main.f855e6bc.css.map",
+    "main.ca9589e6.js.map": "/NEWSBOOK-APP/static/js/main.ca9589e6.js.map",
+    "787.a85e0f77.chunk.js.map": "/NEWSBOOK-APP/static/js/787.a85e0f77.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.ca9589e6.js"
+  ]
+}
